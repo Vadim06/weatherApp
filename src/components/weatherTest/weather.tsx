@@ -74,8 +74,6 @@ function Weather() {
       setHum(res.data.list[0].main.humidity);
       setWind(res.data.list[0].wind.speed);
     }
-    console.log(cityId);
-    console.log(cityName);
     apiManualCall();
   }, [cityId]);
 
