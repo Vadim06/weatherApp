@@ -1,3 +1,7 @@
+# Weather app
+
+This project is based on Open Weather API nad shows real-time weather
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
