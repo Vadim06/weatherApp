@@ -1,0 +1,19 @@
+.select {
+  width: 40rem;
+  display: block;
+  margin: 3rem auto;
+  margin-bottom: 10rem;
+}
+
+form,
+.stats {
+  text-align: center;
+}
+
+button {
+    width: 10rem;
+    height: 4rem;
+    background: none;
+    border: 2px solid black;
+    cursor: pointer;
+}
