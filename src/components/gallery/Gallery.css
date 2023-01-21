@@ -1,0 +1,31 @@
+.cardText {
+    text-align: center;
+}
+
+.card {
+    cursor: pointer;
+    display: inline-block;
+    user-select: none;
+}
+
+.card:hover {
+    background-color: rgba(255, 255, 255, 0.227);
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 1rem;
+    justify-items: center;
+    padding: 4rem;
+}
+
+.galleryItem {
+    display: inline-block;
+}
+
+.searchBar {
+    width: 10rem;
+    margin-left: 6rem;
+    margin-top: 2rem;
+}
