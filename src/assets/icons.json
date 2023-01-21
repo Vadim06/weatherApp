@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "34",
+    "name": "Add Dish",
+    "filename": "Add Dish.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "35",
+    "name": "Airmatic",
+    "filename": "Airmatic.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "36",
+    "name": "Akce - zlevn\u011bn\u00e1 MW",
+    "filename": "Akce - zlevnena MW.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "37",
+    "name": "Akce",
+    "filename": "Akce.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "38",
+    "name": "All in One",
+    "filename": "All in One.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "39",
+    "name": "Amazon+Google assist",
+    "filename": "Amazon+Google assist.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "40",
+    "name": "Anti Bacteria",
+    "filename": "Anti Bacteria.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "41",
+    "name": "Antifinger",
+    "filename": "Antifinger.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "42",
+    "name": "AquaStop",
+    "filename": "AquaStop.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "43",
+    "name": "Assist",
+    "filename": "Assist.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "44",
+    "name": "Auto Capture",
+    "filename": "Auto Capture.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "45",
+    "name": "Automaticke kucharske programy",
+    "filename": "Automaticke kucharske programy.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "46",
+    "name": "AutoPilot",
+    "filename": "AutoPilot.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "47",
+    "name": "AXI",
+    "filename": "AXI.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "48",
+    "name": "Back Aspiration",
+    "filename": "Back Aspiration.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "49",
+    "name": "Baking Sensor",
+    "filename": "Baking Sensor.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "50",
+    "name": "BioCool",
+    "filename": "BioCool.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "51",
+    "name": "BioFresh",
+    "filename": "BioFresh.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "52",
+    "name": "Booster 1x",
+    "filename": "Booster 1x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "53",
+    "name": "Booster 2x",
+    "filename": "Booster 2x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "54",
+    "name": "Booster 3x",
+    "filename": "Booster 3x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "55",
+    "name": "Booster 4x",
+    "filename": "Booster 4x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "56",
+    "name": "Click-Clean",
+    "filename": "Click-Clean.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "57",
+    "name": "CookControl Plus",
+    "filename": "CookControl Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "58",
+    "name": "CookControl",
+    "filename": "CookControl.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "59",
+    "name": "Crisp",
+    "filename": "Crisp.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "60",
+    "name": "D\u00e1rek",
+    "filename": "Darek.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "61",
+    "name": "Defrost",
+    "filename": "Defrost.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "62",
+    "name": "Design - 3",
+    "filename": "Design - 3.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "63",
+    "name": "Design - 5",
+    "filename": "Design - 5.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "64",
+    "name": "Design - 7",
+    "filename": "Design - 7.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "65",
+    "name": "Design - 9",
+    "filename": "Design - 9.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "66",
+    "name": "Design - Absolute",
+    "filename": "Design - Absolute.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "67",
+    "name": "Design - Actual",
+    "filename": "Design - Actual.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "68",
+    "name": "Design - Advanced",
+    "filename": "Design - Advanced.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "69",
+    "name": "Design - Ambient",
+    "filename": "Design - Ambient.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "70",
+    "name": "Design - Classico",
+    "filename": "Design - Classico.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "71",
+    "name": "Design - Essential",
+    "filename": "Design - Essential.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "72",
+    "name": "Design - Fusion",
+    "filename": "Design - Fusion.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "73",
+    "name": "Design - iF award",
+    "filename": "Design - iF award.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "74",
+    "name": "Design - Infinity",
+    "filename": "Design - Infinity.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "75",
+    "name": "Design - Oralto",
+    "filename": "Design - Oralto.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "76",
+    "name": "Design - Retro",
+    "filename": "Design - Retro.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "77",
+    "name": "Design - Rustical",
+    "filename": "Design - Rustical.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "79",
+    "name": "Design - Simplicity",
+    "filename": "Design - Simplicity.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "80",
+    "name": "Design - Starck",
+    "filename": "Design - Starck.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "81",
+    "name": "D\u011btsk\u00e1 pojistka",
+    "filename": "Detska pojistka.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "82",
+    "name": "Direct Flame",
+    "filename": "Direct Flame.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "83",
+    "name": "Direct Select",
+    "filename": "Direct Select.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "84",
+    "name": "Displej LCD",
+    "filename": "Displej LCD.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "85",
+    "name": "Displej TFT",
+    "filename": "Displej TFT.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "86",
+    "name": "Dotykov\u00e9 ovl\u00e1d\u00e1n\u00ed",
+    "filename": "Dotykove ovladani.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "87",
+    "name": "Dr\u017e\u00e1k na l\u00e1hve",
+    "filename": "Drzak na lahve.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "88",
+    "name": "Dvojit\u00fd ho\u0159\u00e1k",
+    "filename": "Dvojity horak.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "89",
+    "name": "E-shop",
+    "filename": "E-shop.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "90",
+    "name": "EasyClean",
+    "filename": "EasyClean.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "91",
+    "name": "EasyFresh",
+    "filename": "EasyFresh.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "92",
+    "name": "EasyToClean",
+    "filename": "EasyToClean.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "93",
+    "name": "EcoClean Plus",
+    "filename": "EcoClean Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "94",
+    "name": "EcoClean",
+    "filename": "EcoClean.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "95",
+    "name": "EcoSilence Drive",
+    "filename": "EcoSilence Drive.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "96",
+    "name": "Energie A -10",
+    "filename": "Energie A -10.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "97",
+    "name": "Energie A -20",
+    "filename": "Energie A -20.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "98",
+    "name": "Energie A -30",
+    "filename": "Energie A -30.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "99",
+    "name": "Energie A -60",
+    "filename": "Energie A -60.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "100",
+    "name": "Energie A+++ -40",
+    "filename": "Energie A+++ -40.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "101",
+    "name": "Energie A+++ -30",
+    "filename": "Energie A+++ -30.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "102",
+    "name": "Energie A+++ -20",
+    "filename": "Energie A+++ -20.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "103",
+    "name": "Energie A+++ -10",
+    "filename": "Energie A+++ -10.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "104",
+    "name": "Energie A++",
+    "filename": "Energie A++.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "105",
+    "name": "Energie A+",
+    "filename": "Energie A+.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "106",
+    "name": "Energie A",
+    "filename": "Energie A.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "107",
+    "name": "Energie A++++",
+    "filename": "Energie A++++.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "108",
+    "name": "Energie A+++",
+    "filename": "Energie A+++.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "109",
+    "name": "Energie B",
+    "filename": "Energie B.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "110",
+    "name": "Energie C",
+    "filename": "Energie C.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "111",
+    "name": "Energie D",
+    "filename": "Energie D.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "112",
+    "name": "Energie E",
+    "filename": "Energie E.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "113",
+    "name": "Energie F",
+    "filename": "Energie F.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "114",
+    "name": "Extra hlubok\u00fd d\u0159ez",
+    "filename": "Extra hluboky drez.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "115",
+    "name": "ExtraDry",
+    "filename": "ExtraDry.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "116",
+    "name": "Fix-Sva\u0159eno",
+    "filename": "Fix-Svareno.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "117",
+    "name": "FlameSelect",
+    "filename": "FlameSelect.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "118",
+    "name": "Flexi z\u00f3na 2x",
+    "filename": "Flexi zona 2x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "119",
+    "name": "Flexi z\u00f3na",
+    "filename": "Flexi zona.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "120",
+    "name": "FlexIndukce",
+    "filename": "FlexIndukce.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "121",
+    "name": "FlexMotion",
+    "filename": "FlexMotion.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "122",
+    "name": "Freeze Control",
+    "filename": "Freeze Control.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "123",
+    "name": "Fresh Box plus",
+    "filename": "Fresh Box plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "124",
+    "name": "Fresh Care plus",
+    "filename": "Fresh Care plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "125",
+    "name": "Fresh Control",
+    "filename": "Fresh Control.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "126",
+    "name": "Fresh Zone",
+    "filename": "Fresh Zone.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "127",
+    "name": "FreshSense",
+    "filename": "FreshSense.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "128",
+    "name": "FryingSensor Plus",
+    "filename": "FryingSensor Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "129",
+    "name": "FryingSensor",
+    "filename": "FryingSensor.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "130",
+    "name": "Grill",
+    "filename": "Grill.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "131",
+    "name": "HD Cooking",
+    "filename": "HD Cooking.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "132",
+    "name": "Hilight 1x",
+    "filename": "Hilight 1x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "133",
+    "name": "Hilight 2x",
+    "filename": "Hilight 2x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "135",
+    "name": "Hilight 3x",
+    "filename": "Hilight 3x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "136",
+    "name": "Hilight 4x",
+    "filename": "Hilight 4x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "137",
+    "name": "Hloubka - 400",
+    "filename": "Hloubka - 400.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "138",
+    "name": "Hloubka - 600",
+    "filename": "Hloubka - 600.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "139",
+    "name": "Hluk - 32",
+    "filename": "Hluk - 32.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "140",
+    "name": "Hluk - 35",
+    "filename": "Hluk - 35.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "141",
+    "name": "Hluk - 36",
+    "filename": "Hluk - 36.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "142",
+    "name": "Hluk - 38",
+    "filename": "Hluk - 38.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "143",
+    "name": "Hluk - 39",
+    "filename": "Hluk - 39.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "144",
+    "name": "Hluk - 40",
+    "filename": "Hluk - 40.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "145",
+    "name": "Hluk - 41",
+    "filename": "Hluk - 41.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "146",
+    "name": "Hluk - 42",
+    "filename": "Hluk - 42.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "147",
+    "name": "Hluk - 43",
+    "filename": "Hluk - 43.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "148",
+    "name": "Hluk - 44",
+    "filename": "Hluk - 44.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "149",
+    "name": "Hluk - 45",
+    "filename": "Hluk - 45.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "150",
+    "name": "Hluk - 46",
+    "filename": "Hluk - 46.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "151",
+    "name": "Hluk - 47",
+    "filename": "Hluk - 47.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "152",
+    "name": "Hluk - 48",
+    "filename": "Hluk - 48.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "153",
+    "name": "Hluk - 49",
+    "filename": "Hluk - 49.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "154",
+    "name": "Energie A",
+    "filename": "ENERG-STITEK_Energie A.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "155",
+    "name": "Energie B",
+    "filename": "ENERG-STITEK_Energie B.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "156",
+    "name": "Energie C",
+    "filename": "ENERG-STITEK_Energie C.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "157",
+    "name": "Energie D",
+    "filename": "ENERG-STITEK_Energie D.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "158",
+    "name": "Energie E",
+    "filename": "ENERG-STITEK_Energie E.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "159",
+    "name": "Hluk - 52",
+    "filename": "Hluk - 52.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "160",
+    "name": "Hluk - 53",
+    "filename": "Hluk - 53.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "161",
+    "name": "Hork\u00fd vzduch 3D Plus",
+    "filename": "Horky vzduch 3D Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "162",
+    "name": "Hork\u00fd vzduch 3D",
+    "filename": "Horky vzduch 3D.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "163",
+    "name": "Hork\u00fd vzduch 4D",
+    "filename": "Horky vzduch 4D.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "164",
+    "name": "Hork\u00fd vzduch",
+    "filename": "Horky vzduch.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "165",
+    "name": "Hygiena Plus",
+    "filename": "Hygiena Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "166",
+    "name": "Hygiena",
+    "filename": "Hygiena.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "167",
+    "name": "Chlazen\u00ed dv\u00ed\u0159ek",
+    "filename": "Chlazeni dvirek.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "168",
+    "name": "Idealn\u00ed vlhkost",
+    "filename": "Idealni vlhkost.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "169",
+    "name": "Indukce",
+    "filename": "Indukce.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "170",
+    "name": "Inverterova technologie",
+    "filename": "Inverterova technologie.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "171",
+    "name": "Invertorov\u00fd motor",
+    "filename": "Invertorovz\u030c motor.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "172",
+    "name": "IQ senzor",
+    "filename": "IQ senzor.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "173",
+    "name": "J\u00eddeln\u00ed soupravy - 09",
+    "filename": "Jidelni soupravy - 09.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "174",
+    "name": "J\u00eddeln\u00ed soupravy - 10",
+    "filename": "Jidelni soupravy - 10.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "175",
+    "name": "J\u00eddeln\u00ed soupravy - 12",
+    "filename": "Jidelni soupravy - 12.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "176",
+    "name": "J\u00eddeln\u00ed soupravy - 13",
+    "filename": "Jidelni soupravy - 13.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "177",
+    "name": "J\u00eddeln\u00ed soupravy - 14",
+    "filename": "Jidelni soupravy - 14.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "178",
+    "name": "J\u00eddeln\u00ed soupravy - 16",
+    "filename": "Jidelni soupravy - 16.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "179",
+    "name": "Katalyza",
+    "filename": "Katalyza.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "180",
+    "name": "Konektivita",
+    "filename": "Konektivita.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "181",
+    "name": "Koobox",
+    "filename": "Koobox.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "182",
+    "name": "Less Frost",
+    "filename": "Less Frost.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "183",
+    "name": "Litinov\u00e9 podp\u011bry",
+    "filename": "Litinove podpery.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "184",
+    "name": "Litinove rosty 2x",
+    "filename": "Litinove rosty 2x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "185",
+    "name": "Modul",
+    "filename": "Modul.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "186",
+    "name": "Mont\u00e1\u017e - horn\u00ed",
+    "filename": "Montaz - horni.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "187",
+    "name": "Mont\u00e1\u017e - spodn\u00ed",
+    "filename": "Montaz - spodni.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "188",
+    "name": "Mont\u00e1\u017e - v rovin\u011b",
+    "filename": "Montaz - v rovine.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "189",
+    "name": "MoveMode",
+    "filename": "MoveMode.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "190",
+    "name": "MultiLevel Flame 9",
+    "filename": "MultiLevel Flame 9.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "191",
+    "name": "No Frost Plus",
+    "filename": "No Frost Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "192",
+    "name": "No Frost",
+    "filename": "No Frost.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "193",
+    "name": "Novinka",
+    "filename": "Novinka.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "194",
+    "name": "Nulov\u00e1 z\u00f3na",
+    "filename": "Nulova zona.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "195",
+    "name": "Objem - 10 l plus",
+    "filename": "Objem - 10 l plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "196",
+    "name": "Objem - 17 l",
+    "filename": "Objem - 17 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "197",
+    "name": "Objem - 18 l",
+    "filename": "Objem - 18 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "198",
+    "name": "Objem - 20 l",
+    "filename": "Objem - 20 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "199",
+    "name": "Objem - 21 l",
+    "filename": "Objem - 21 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "200",
+    "name": "Objem - 22 l",
+    "filename": "Objem - 22 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "201",
+    "name": "Objem - 23 l",
+    "filename": "Objem - 23 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "202",
+    "name": "Objem - 24 l",
+    "filename": "Objem - 24 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "203",
+    "name": "Objem - 25 l",
+    "filename": "Objem - 25 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "204",
+    "name": "Objem - 28 l",
+    "filename": "Objem - 28 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "205",
+    "name": "Objem - 31 l",
+    "filename": "Objem - 31 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "206",
+    "name": "Objem - 34 l",
+    "filename": "Objem - 34 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "207",
+    "name": "Objem - 38 l",
+    "filename": "Objem - 38 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "208",
+    "name": "Objem - 40 l",
+    "filename": "Objem - 40 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "209",
+    "name": "Objem - 44 l",
+    "filename": "Objem - 44 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "210",
+    "name": "Objem - 45 l",
+    "filename": "Objem - 45 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "211",
+    "name": "Objem - 47 l",
+    "filename": "Objem - 47 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "212",
+    "name": "Objem - 48 l",
+    "filename": "Objem - 48 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "213",
+    "name": "Objem - 51 l",
+    "filename": "Objem - 51 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "214",
+    "name": "Objem - 53 l",
+    "filename": "Objem - 53 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "215",
+    "name": "Objem - 56 l",
+    "filename": "Objem - 56 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "216",
+    "name": "Objem - 57 l",
+    "filename": "Objem - 57 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "217",
+    "name": "Objem - 58 l",
+    "filename": "Objem - 58 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "218",
+    "name": "Objem - 60 l",
+    "filename": "Objem - 60 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "219",
+    "name": "Objem - 62 l",
+    "filename": "Objem - 62 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "220",
+    "name": "Objem - 63 l",
+    "filename": "Objem - 63 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "221",
+    "name": "Objem - 65 l",
+    "filename": "Objem - 65 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "222",
+    "name": "Objem - 66 l",
+    "filename": "Objem - 66 l .svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "223",
+    "name": "Objem - 67 l",
+    "filename": "Objem - 67 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "224",
+    "name": "Objem - 70 l",
+    "filename": "Objem - 70 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "225",
+    "name": "Objem - 71 l",
+    "filename": "Objem - 71 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "226",
+    "name": "Objem - 72 l",
+    "filename": "Objem - 72 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "227",
+    "name": "Objem - 73 l",
+    "filename": "Objem - 73 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "228",
+    "name": "Objem - 74 l",
+    "filename": "Objem - 74 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "229",
+    "name": "Objem - 75 l",
+    "filename": "Objem - 75 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "230",
+    "name": "Objem - 77 l",
+    "filename": "Objem - 77 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "231",
+    "name": "Objem - 124 l",
+    "filename": "Objem - 124 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "232",
+    "name": "Objem - 237 l",
+    "filename": "Objem - 237 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "233",
+    "name": "Objem - 277 l",
+    "filename": "Objem - 277 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "234",
+    "name": "Objem - 304 l",
+    "filename": "Objem - 304 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "235",
+    "name": "Objem - 308 l",
+    "filename": "Objem - 308 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "236",
+    "name": "Objem - 310 l",
+    "filename": "Objem - 310 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "237",
+    "name": "Objem - 311 l",
+    "filename": "Objem - 311 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "238",
+    "name": "Objem bubnu - 07 kg",
+    "filename": "Objem bubnu - 07 kg.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "239",
+    "name": "Objem bubnu - 08 kg",
+    "filename": "Objem bubnu - 08 kg.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "240",
+    "name": "Objem bubnu - 09 kg",
+    "filename": "Objem bubnu - 09 kg.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "241",
+    "name": "Objem bubnu - 10 kg",
+    "filename": "Objem bubnu - 10 kg.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "242",
+    "name": "Objem bubnu - 11 kg",
+    "filename": "Objem bubnu - 11 kg.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "243",
+    "name": "Objem bubnu - 12 kg",
+    "filename": "Objem bubnu - 12 kg.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "244",
+    "name": "Objem bubnu - 13 kg",
+    "filename": "Objem bubnu - 13 kg.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "245",
+    "name": "Objem bubnu - 14 kg",
+    "filename": "Objem bubnu - 14 kg.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "246",
+    "name": "One Fi Extra",
+    "filename": "One Fi Extra.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "247",
+    "name": "One Fi",
+    "filename": "One Fi.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "248",
+    "name": "One Touch",
+    "filename": "One Touch.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "249",
+    "name": "Osv\u011btlen\u00ed - Halogen",
+    "filename": "Osvetleni - Halogen.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "250",
+    "name": "Osv\u011btlen\u00ed - LED",
+    "filename": "Osvetleni - LED.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "251",
+    "name": "PanBoost",
+    "filename": "PanBoost.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "252",
+    "name": "P\u00e1ra",
+    "filename": "Para.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "253",
+    "name": "Pe\u010d\u00edc\u00ed senzor",
+    "filename": "Pecici senzor.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "254",
+    "name": "Pe\u010d\u00edc\u00ed sonda",
+    "filename": "Pecici sonda.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "255",
+    "name": "PerfectBake",
+    "filename": "PerfectBake.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "256",
+    "name": "PerfectFry",
+    "filename": "PerfectFry.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "257",
+    "name": "PerfectRoast",
+    "filename": "PerfectRoast.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "258",
+    "name": "Plyn",
+    "filename": "Plyn.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "259",
+    "name": "Polovi\u010dn\u00ed n\u00e1pl\u0148",
+    "filename": "Polovicni napln.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "260",
+    "name": "Posuvn\u00e9 panty - My\u010dka",
+    "filename": "Posuvne panty - Mycka.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "261",
+    "name": "Pouze v Oresi",
+    "filename": "Pouze v Oresi.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "262",
+    "name": "Povrch iXelium",
+    "filename": "Povrch iXelium.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "263",
+    "name": "Power Booster",
+    "filename": "Power Booster.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "264",
+    "name": "Power Clean Pro",
+    "filename": "Power Clean Pro.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "265",
+    "name": "Power Management - 230 V",
+    "filename": "Power Management - 230 V.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "266",
+    "name": "PowerBoost",
+    "filename": "PowerBoost.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "267",
+    "name": "PowerDry",
+    "filename": "PowerDry.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "268",
+    "name": "PowerMove Plus",
+    "filename": "PowerMove Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "269",
+    "name": "PowerMove",
+    "filename": "PowerMove.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "270",
+    "name": "Push to Open",
+    "filename": "Push to Open.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "271",
+    "name": "Pyrol\u00fdza",
+    "filename": "Pyrolyza.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "272",
+    "name": "QuickStart",
+    "filename": "QuickStart.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "273",
+    "name": "Ready 2 Cook",
+    "filename": "Ready 2 Cook.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "274",
+    "name": "ReStart",
+    "filename": "ReStart.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "275",
+    "name": "Roasting Sensor Plus",
+    "filename": "Roasting Sensor Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "276",
+    "name": "Roasting Sensor",
+    "filename": "Roasting Sensor.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "277",
+    "name": "Rychl\u00e9 programy",
+    "filename": "Rychle programy.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "278",
+    "name": "Servis",
+    "filename": "Servis.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "279",
+    "name": "Silent Plus",
+    "filename": "Silent Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "280",
+    "name": "Simple Off",
+    "filename": "Simple Off.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "281",
+    "name": "Simpy-Fi",
+    "filename": "Simpy-Fi.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "282",
+    "name": "\u0160\u00ed\u0159ka - 580 mm",
+    "filename": "Sirka - 580 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "283",
+    "name": "\u0160\u00ed\u0159ka - 600 mm",
+    "filename": "Sirka - 600 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "284",
+    "name": "\u0160\u00ed\u0159ka - 750 mm",
+    "filename": "Sirka - 750 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "285",
+    "name": "Slider",
+    "filename": "Slider.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "286",
+    "name": "Smart Touch",
+    "filename": "Smart Touch.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "287",
+    "name": "Smart-Fi",
+    "filename": "Smart-Fi.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "288",
+    "name": "SmartFrost",
+    "filename": "SmartFrost.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "289",
+    "name": "Sortiment",
+    "filename": "Sortiment.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "290",
+    "name": "Spot\u0159eba vody - 06 l",
+    "filename": "Spotreba vody - 06 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "291",
+    "name": "Spot\u0159eba vody - 06,5 l",
+    "filename": "Spotreba vody - 06,5 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "292",
+    "name": "Spot\u0159eba vody - 06,9 l",
+    "filename": "Spotreba vody - 06,9 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "293",
+    "name": "Spot\u0159eba vody - 07,5 l",
+    "filename": "Spotreba vody - 07,5 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "294",
+    "name": "Spot\u0159eba vody - 08 l",
+    "filename": "Spotreba vody - 08 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "295",
+    "name": "Spot\u0159eba vody - 08,5 l",
+    "filename": "Spotreba vody - 08,5 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "296",
+    "name": "Spot\u0159eba vody - 08,7 l",
+    "filename": "Spotreba vody - 08,7 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "297",
+    "name": "Spot\u0159eba vody - 09 l",
+    "filename": "Spotreba vody - 09 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "298",
+    "name": "Spot\u0159eba vody - 09,5 l",
+    "filename": "Spotreba vody - 09,5 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "299",
+    "name": "Spot\u0159eba vody - 09,6 l",
+    "filename": "Spotreba vody - 09,6 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "300",
+    "name": "Spot\u0159eba vody - 10 l",
+    "filename": "Spotreba vody - 10 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "301",
+    "name": "Spot\u0159eba vody - 10,5 l",
+    "filename": "Spotreba vody - 10,5 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "302",
+    "name": "Spot\u0159eba vody - 10,7 l",
+    "filename": "Spotreba vody - 10,7 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "303",
+    "name": "Spot\u0159eba vody - 11 l",
+    "filename": "Spotreba vody - 11 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "304",
+    "name": "Spot\u0159eba vody - 11,5 l",
+    "filename": "Spotreba vody - 11,5 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "305",
+    "name": "Spot\u0159eba vody - 11,7 l",
+    "filename": "Spotreba vody - 11,7 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "306",
+    "name": "Spot\u0159eba vody - 11,8 l",
+    "filename": "Spotreba vody - 11,8 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "307",
+    "name": "Spot\u0159eba vody - 12 l",
+    "filename": "Spotreba vody - 12 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "308",
+    "name": "Spot\u0159eba vody - 13 l",
+    "filename": "Spotreba vody - 13 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "309",
+    "name": "Spot\u0159eba vody - 14 l",
+    "filename": "Spotreba vody - 14 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "310",
+    "name": "Spot\u0159eba vody - 15 l",
+    "filename": "Spotreba vody - 15 l.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "311",
+    "name": "StarClean",
+    "filename": "StarClean.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "312",
+    "name": "Steam",
+    "filename": "Steam.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "313",
+    "name": "StepBake",
+    "filename": "StepBake.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "314",
+    "name": "StepFlame Technology",
+    "filename": "StepFlame Technology.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "315",
+    "name": "Stirrer technologie",
+    "filename": "Stirrer technologie.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "316",
+    "name": "Supercool",
+    "filename": "Supercool.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "317",
+    "name": "Tablety - All in 1 ",
+    "filename": "Tablety - All in 1 .svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "318",
+    "name": "Teleskopick\u00e9 v\u00fdsuvy",
+    "filename": "Teleskopicke vysuvy.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "319",
+    "name": "Tepeln\u00e9 \u010derpadlo",
+    "filename": "Tepelne cerpadlo.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "320",
+    "name": "Teplota dv\u00ed\u0159ek - 30",
+    "filename": "Teplota dvirek - 30.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "321",
+    "name": "Teplota dv\u00ed\u0159ek - 40",
+    "filename": "Teplota dvirek - 40.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "322",
+    "name": "Teplota dv\u00ed\u0159ek - 50",
+    "filename": "Teplota dvirek - 50.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "323",
+    "name": "Teplotn\u00ed sonda",
+    "filename": "Teplotni sonda.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "324",
+    "name": "Tich\u00fd chod",
+    "filename": "Tichy chod.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "325",
+    "name": "Tlak - 15 bar",
+    "filename": "Tlak - 15 bar.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "326",
+    "name": "Tlak - 19 bar",
+    "filename": "Tlak - 19 bar.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "327",
+    "name": "Total Care",
+    "filename": "Total Care.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "328",
+    "name": "Total No Frost",
+    "filename": "Total No Frost.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "329",
+    "name": "Touch Control",
+    "filename": "Touch Control.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "330",
+    "name": "Trouba 2v1",
+    "filename": "Trouba 2v1.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "331",
+    "name": "Trysky",
+    "filename": "Trysky.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "332",
+    "name": "Turn-Cook",
+    "filename": "Turn-Cook.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "333",
+    "name": "VarioSpeed Plus",
+    "filename": "VarioSpeed Plus.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "334",
+    "name": "VarioSpeed",
+    "filename": "VarioSpeed.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "335",
+    "name": "Ventil\u00e1tor",
+    "filename": "Ventilator.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "336",
+    "name": "Vhodn\u00e9 do my\u010dky",
+    "filename": "Vhodne do mycky.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "337",
+    "name": "V\u00fd\u0159ez pod my\u010dku",
+    "filename": "Vyrez pod mycku.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "338",
+    "name": "V\u00fdrobn\u00edk ledu",
+    "filename": "Vyrobnik ledu.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "339",
+    "name": "V\u00fdsek",
+    "filename": "Vysek.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "340",
+    "name": "V\u00fd\u0161ka - 0820 mm",
+    "filename": "Vyska - 0820 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "341",
+    "name": "V\u00fd\u0161ka - 0960 mm",
+    "filename": "Vyska - 0960 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "342",
+    "name": "V\u00fd\u0161ka - 1441 mm",
+    "filename": "Vyska - 1441 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "343",
+    "name": "V\u00fd\u0161ka - 1750 mm",
+    "filename": "Vyska - 1750 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "344",
+    "name": "V\u00fd\u0161ka - 1770 mm",
+    "filename": "Vyska - 1770 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "345",
+    "name": "V\u00fd\u0161ka - 1780 mm",
+    "filename": "Vyska - 1780 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "346",
+    "name": "V\u00fd\u0161ka - 1850 mm",
+    "filename": "Vyska - 1850 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "347",
+    "name": "V\u00fd\u0161ka - 1855 mm",
+    "filename": "Vyska - 1855 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "348",
+    "name": "V\u00fd\u0161ka - 1870 mm",
+    "filename": "Vyska - 1870 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "349",
+    "name": "V\u00fd\u0161ka - 1935 mm",
+    "filename": "Vyska - 1935 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "350",
+    "name": "V\u00fd\u0161ka - 1950 mm",
+    "filename": "Vyska - 1950 mm.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "351",
+    "name": "Wi-Fi + Bluetooth",
+    "filename": "Wi-Fi + Bluetooth.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "352",
+    "name": "Wi-Fi",
+    "filename": "Wi-Fi.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "353",
+    "name": "Wok",
+    "filename": "Wok.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "354",
+    "name": "Xpandzone 2x",
+    "filename": "Xpandzone 2x.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "355",
+    "name": "Xpandzone",
+    "filename": "Xpandzone.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "356",
+    "name": "Za hubi\u010dku",
+    "filename": "Za hubicku.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "357",
+    "name": "Z\u00e1ruka 5 let",
+    "filename": "Zaruka 5 let.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "358",
+    "name": "Z\u00e1ruka 30 let - special pyramis",
+    "filename": "Zaruka 30 let - special pyramis.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "359",
+    "name": "Z\u00e1ruka a servis 2+3 roky",
+    "filename": "Zaruka a servis 2+3 roky.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "360",
+    "name": "Z\u00e1ruka na motor - 10 let",
+    "filename": "Zaruka na motor - 10 let.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "361",
+    "name": "Z\u00e1ruka na motor",
+    "filename": "Zaruka na motor.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "362",
+    "name": "Zdarma - mikrovlnka",
+    "filename": "Zdarma - mikrovlnka.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "363",
+    "name": "Zdarma - tablety",
+    "filename": "Zdarma - tablety.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "364",
+    "name": "Zn\u00e1te z TV - JSSS",
+    "filename": "Znate z TV - JSSS.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "365",
+    "name": "Z\u00f3na - combi",
+    "filename": "Zona - combi.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "366",
+    "name": "Z\u00f3na - duoz\u00f3na",
+    "filename": "Zona - duozona.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "367",
+    "name": "Z\u00f3na - dvojit\u00e1",
+    "filename": "Zona - dvojita.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "368",
+    "name": "Z\u00f3na - ovaln\u00e1",
+    "filename": "Zona - ovalna.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "369",
+    "name": "Z\u00f3na - roz\u0161\u00ed\u0159en\u00e1",
+    "filename": "Zona - rozsirena.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "370",
+    "name": "Z\u00f3na - trojit\u00e1",
+    "filename": "Zona - trojita.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "371",
+    "name": "6 smysl",
+    "filename": "6 smysl.svg",
+    "parent": "2",
+    "editor": "Jakub \u017d\u00eddek"
+  },
+  {
+    "id": "372",
+    "name": "Active Oxygen",
+    "filename": "Active Oxygen.svg",
+    "parent": "2",
+    "editor": "Jakub \u017d\u00eddek"
+  },
+  {
+    "id": "373",
+    "name": "Adapt Tech",
+    "filename": "AdaptTech.svg",
+    "parent": "2",
+    "editor": "Jakub \u017d\u00eddek"
+  },
+  {
+    "id": "374",
+    "name": "Design - Superior",
+    "filename": "Design - Superior.svg",
+    "parent": "2",
+    "editor": "Jakub \u017d\u00eddek"
+  },
+  {
+    "id": "375",
+    "name": "Chlazen\u00ed dv\u00ed\u0159ek",
+    "filename": "Chlazeni dvirek.svg",
+    "parent": "2",
+    "editor": "Jakub \u017d\u00eddek"
+  },
+  {
+    "id": "376",
+    "name": "Energie F",
+    "filename": "ENERG-STITEK_Energie F.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  },
+  {
+    "id": "377",
+    "name": "Energie G",
+    "filename": "ENERG-STITEK_Energie G.svg",
+    "parent": "2",
+    "editor": "V\u00edt\u011bzslav Ryba"
+  }
+]
